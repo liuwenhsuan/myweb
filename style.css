@@ -1,0 +1,16 @@
+body{
+   text-align: center;
+}
+.btn{
+  border: solid 1px blue;
+  width: 100px;
+  height: 100px;
+  display: inline;
+  font-size: 30px;
+  color: #ffcb94;
+  background-color: #94a9ff;
+}
+h1{
+  font-size: 60px;
+  font-family: 標楷體;
+}
